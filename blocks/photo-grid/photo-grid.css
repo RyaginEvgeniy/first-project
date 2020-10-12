@@ -2,7 +2,7 @@
   position: relative;
   margin-top: 92px;
   display: grid;
-  left: calc(48px);
+  left: 48px;
   width: calc(100% - 96px);
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);

@@ -7,7 +7,7 @@
   background-image: url(../../images/cover-trains.jpg);
   background-size: cover;
   flex-direction: column;
-  left: calc(48px);
+  left: 48px;
   width: calc(100% - 96px);
   height: 740px;
 }
